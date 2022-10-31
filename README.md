@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mr.shad</h1>
+<p align="left"> <img src="Shad.gif" alt="isaac" /> </p>
+
 <h3 align="center">A self-taught programmer and random developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-shad&label=Profile%20views&color=0e75b6&style=flat" alt="isaac" /> </p>
