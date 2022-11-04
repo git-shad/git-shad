@@ -1,4 +1,4 @@
-<p align="left"> <img src="Shad.gif" alt="isaac" /> </p>
+<p align="center" > <img src="Shad.gif" alt="isaac" /> </p>
 
 <h3 align="center">A self-taught programmer and random developer</h3>
 
@@ -12,9 +12,7 @@
 </p>
 
 <p align="center"> 
-<img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=git-shad&?count_private=true&show_icons=true&theme=tokyonight" />
- <br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-shad&hide=html,css,scss&langs_count=15&layout=compact&theme=tokyonight" width="400px" />
+<img align="center" height="170px" width="400px" src="https://github-readme-stats.vercel.app/api?username=git-shad&?count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-shad&hide=html,css,scss&langs_count=15&layout=compact&theme=tokyonight" width="400px" height="170px"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-shad&theme=dark" />
 </p>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=git-shad&theme=dark" />
