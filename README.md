@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/shad228025" target="blank"><img align="center" src="facebook.gif" alt="shad228025" height="50" width="70" /></a>
-  <a href="https://www.youtube.com/@nexusthreat" target="blank"><img align="center" src="youtube.gif" alt="shad228025" height="50" width="70"/></a>
+<a href="https://www.facebook.com/shad228025" target="blank"><img align="center" src="Facebook.gif" alt="shad228025" height="50" width="70" /></a>
+  <a href="https://www.youtube.com/@nexusthreat" target="blank"><img align="center" src="Youtube.gif" alt="shad228025" height="50" width="70"/></a>
 </p>
 
 <p align="center">
