@@ -1,5 +1,0 @@
-*.json
-*.js
-/node_modules
-/.idx
-tailwind.css
